@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6832895A-1AC7-48F3-BE61-F76CE2DDCD4F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>LetAsk</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5FCD8C95F558A1F9F8F15C2111295CAB65CE759B</key>
+		<string>https://github.com/hongocchau/LetAsk.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>LetAsk.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5FCD8C95F558A1F9F8F15C2111295CAB65CE759B</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/hongocchau/LetAsk.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5FCD8C95F558A1F9F8F15C2111295CAB65CE759B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5FCD8C95F558A1F9F8F15C2111295CAB65CE759B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>LetAskFromGit</string>
+		</dict>
+	</array>
+</dict>
+</plist>
