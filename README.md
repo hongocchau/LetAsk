@@ -10,6 +10,6 @@ LetAsk is an iPhone application written in Swift, using Parse framework (v1.8.2)
 - Delete his own question whenever he wants. The question will be removed from his friends' list
 
 # Change log:
-- v1.0: 
-- - First version with all basic functionalites
-- - Layout only supports ip5/5s (AutoLayout is not implemented yet)
+# v1.0: 
+- First version with all basic functionalites
+- Layout only supports ip5/5s (AutoLayout is not implemented yet)
